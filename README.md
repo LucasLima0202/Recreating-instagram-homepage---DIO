@@ -1,2 +1,2 @@
-# Recreating-instagram-homepage---DIO
+# Recreating-instagram-homepage
 Recreating instagram homepage - DIO
